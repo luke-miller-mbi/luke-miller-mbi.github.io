@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "387f785e863d7f0e": "https://api.observablehq.com/d/387f785e863d7f0e@391.tgz?v=3&api_key=e4724b936115f17ef4d9e956dd84d87fbe676766",
+    "@mccormickbi/sigmatilegram": "https://api.observablehq.com/@mccormickbi/sigmatilegram.tgz?v=3",
     "@observablehq/runtime": "5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "387f785e863d7f0e": "https://api.observablehq.com/d/387f785e863d7f0e@391.tgz?v=3&api_key=e4724b936115f17ef4d9e956dd84d87fbe676766",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",

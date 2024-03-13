@@ -1,8 +1,8 @@
 import React, {useRef, useEffect} from "react";
 import {Runtime, Inspector} from "@observablehq/runtime";
-import notebook from "387f785e863d7f0e";
+import notebook from "@mccormickbi/sigmatilegram";
 
-function Notebook() {
+function Sigmatilegram() {
   const chartRef = useRef();
 
   useEffect(() => {
@@ -16,9 +16,8 @@ function Notebook() {
   return (
     <>
       <div ref={chartRef} />
-      <p>Credit: <a href="https://observablehq.com/d/387f785e863d7f0e@391">Untitled by sigma</a></p>
     </>
   );
 }
 
-export default Notebook;
+export default Sigmatilegram;

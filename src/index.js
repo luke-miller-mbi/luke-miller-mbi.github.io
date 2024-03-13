@@ -2,12 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Notebook from './tilegram'
+import Sigmatilegram from './tilegram'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Notebook />
+    <Sigmatilegram />
   </React.StrictMode>
 );
 
